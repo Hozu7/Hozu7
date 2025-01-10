@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![90Web](https://github.com/user-attachments/assets/cb3e9058-ecc0-44fc-9e34-493456b29966)
+![90sExplorer](https://github.com/user-attachments/assets/aae4f971-9f8e-4f96-9957-7023eb4bdb1a)
 
 ## 🚀 About Me
 
