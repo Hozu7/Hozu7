@@ -1,21 +1,19 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Terminal GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/0*KB_3YZVk5clUiUDO.gif)
+
 
 ## 🚀 About Me
 
 Hello! I’m a curious programmer who loves pasta. Here’s a bit more about me:
 
-- **🌟 What Drives Me**: I’m a very curious person, I like a challenge and coding seems like a good one to me.
-- **🛠 What I Do**: I figure out a next possible coding problem to solve and go for it.
+- **🌟 What Drives Me**: Curiosity; if I find something I'm interested in I try to pursue it.
+- **🛠 What I Do**: Code and Google a lot.
 
 ### 🔍 Interests
 
 ### 📂 Current Projects
 
 ### 🎯 Future Goals
-
-
 
 ---
 
@@ -26,3 +24,4 @@ Hello! I’m a curious programmer who loves pasta. Here’s a bit more about me:
 ## Currently Learning 📖
 - Machine Learning Techniques
 - C
+- Networking
