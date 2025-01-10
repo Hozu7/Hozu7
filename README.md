@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-
+![Terminal GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/0*KB_3YZVk5clUiUDO.gif)
 
 ## 🚀 About Me
 
@@ -24,4 +24,3 @@ Hello! I’m a curious programmer who loves pasta. Here’s a bit more about me:
 ## Currently Learning 📖
 - Machine Learning Techniques
 - C
-- Networking
