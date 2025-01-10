@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Terminal GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/0*KB_3YZVk5clUiUDO.gif)
+<iframe src="https://giphy.com/embed/3816TNoXZDIdvNXvRA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/synergy-vantage-polygon1993-3816TNoXZDIdvNXvRA">via GIPHY</a></p>
 
 ## 🚀 About Me
 
