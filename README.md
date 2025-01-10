@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-<iframe src="https://giphy.com/embed/3816TNoXZDIdvNXvRA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/synergy-vantage-polygon1993-3816TNoXZDIdvNXvRA">via GIPHY</a></p>
+![Terminal GIF](https://giphy.com/gifs/synergy-vantage-polygon1993-3816TNoXZDIdvNXvRA)
 
 ## 🚀 About Me
 
