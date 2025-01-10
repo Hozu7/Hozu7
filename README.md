@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-                  ![cybeaaaah](https://github.com/user-attachments/assets/3af5421c-4e81-48c1-91b0-52432fec9657)
+  ![cybeaaaah](https://github.com/user-attachments/assets/3af5421c-4e81-48c1-91b0-52432fec9657)
 
 ## 🚀 About Me
 
