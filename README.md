@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Terminal GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/0*KB_3YZVk5clUiUDO.gif)
+![cybeaaaah](https://github.com/user-attachments/assets/3af5421c-4e81-48c1-91b0-52432fec9657)
 
 ## 🚀 About Me
 
