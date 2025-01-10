@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Terminal GIF](https://giphy.com/gifs/synergy-vantage-polygon1993-3816TNoXZDIdvNXvRA)
+![dance](https://github.com/user-attachments/assets/a5b780a3-8cf6-4d6a-8851-63a4d9bae984)
 
 ## 🚀 About Me
 
