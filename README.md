@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Terminal GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/0*KB_3YZVk5clUiUDO.gif)
+![cityVapor](https://github.com/user-attachments/assets/3afb7bf1-5c73-4952-8d6a-35c383b9e841)
 
 ## 🚀 About Me
 
